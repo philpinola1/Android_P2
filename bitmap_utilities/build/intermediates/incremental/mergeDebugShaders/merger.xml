@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/host001/Downloads/P2_skel/bitmap_utilities/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/host001/Downloads/P2_skel/bitmap_utilities/src/debug/shaders"/></dataSet></merger>

@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+application
+ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:8:5-13:19
+	android:label
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:10:10-42
+	android:allowBackup
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml:11:9-40
+uses-sdk
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+		ADDED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/bitmap_utilities/src/main/AndroidManifest.xml

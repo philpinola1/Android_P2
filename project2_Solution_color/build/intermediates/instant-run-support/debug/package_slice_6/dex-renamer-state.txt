@@ -1,0 +1,4 @@
+#Thu Mar 01 18:13:10 EST 2018
+base.0=/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/transforms/dexMerger/debug/121
+path.0=classes.dex
+renamed.0=classes.dex

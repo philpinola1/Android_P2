@@ -1,0 +1,102 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
+MERGED from [:bitmap_utilities] /home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/96df6fe5c5f5b5cddebc1df413fa64a3/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:9:22-77
+uses-permission#android.permission.CAMERA
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:10:22-62
+uses-feature#android.hardware.camera
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:11:5-12:36
+	android:required
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:12:9-33
+	android:name
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:11:19-57
+application
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:16:5-39:19
+MERGED from [:bitmap_utilities] /home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:bitmap_utilities] /home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/96df6fe5c5f5b5cddebc1df413fa64a3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/96df6fe5c5f5b5cddebc1df413fa64a3/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:18:9-40
+	android:allowBackup
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:20:9-40
+activity#com.example.solution_color.SettingsActivity
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:21:9-54
+	android:name
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:21:19-51
+activity#com.example.solution_color.MainActivity
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:22:9-37:20
+	android:label
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+MERGED from [:bitmap_utilities] /home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:bitmap_utilities] /home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/96df6fe5c5f5b5cddebc1df413fa64a3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] /home/host001/.gradle/caches/transforms-1/files-1.1/support-v4-23.1.1.aar/96df6fe5c5f5b5cddebc1df413fa64a3/AndroidManifest.xml:20:5-43
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+		ADDED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/host001/Downloads/P2_skel/project2_Solution_color/src/main/AndroidManifest.xml

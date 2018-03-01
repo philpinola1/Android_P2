@@ -1,0 +1,51 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/res/merged/androidTest/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/bundles/debug/res/values-sw720dp-land-v13/values-sw720dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,14",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,113,169,222,276,329,620",
+                        "endLines": "2,3,4,5,6,13,16",
+                        "endColumns": "57,55,52,53,52,12,12",
+                        "endOffsets": "108,164,217,271,324,615,775"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/res/merged/androidTest/debug/values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/host001/Downloads/P2_skel/bitmap_utilities/build/intermediates/bundles/debug/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/values-w720dp/values-w720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "231",
+                        "endColumns": "76",
+                        "endOffsets": "303"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}
