@@ -14,7 +14,7 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 
 import java.io.File;
@@ -23,7 +23,7 @@ import java.io.File;
 public class MainActivity extends AppCompatActivity  {
     private ImageView imgView;
     private Toolbar myToolbar;
-    private Button cameraButton;
+    private ImageButton cameraButton;
     private int TAKE_PICTURE = 1;
 
     @Override
@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity  {
         Drawable myDrawable = getResources().getDrawable(R.drawable.gutters);
         imgView.setImageDrawable(myDrawable);
 
-        cameraButton = (Button)findViewById(R.id.camera_button);
+        cameraButton = (ImageButton)findViewById(R.id.camera_button);
     }
 
 

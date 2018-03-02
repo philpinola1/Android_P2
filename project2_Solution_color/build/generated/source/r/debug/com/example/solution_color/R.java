@@ -1775,7 +1775,11 @@ public final class R {
     public static final int camera=0x7f060045;
     public static final int gutters=0x7f060046;
     public static final int ic_launcher=0x7f060047;
-    public static final int notification_template_icon_bg=0x7f060048;
+    public static final int ic_mode_edit_black_24dp=0x7f060048;
+    public static final int ic_refresh_black_24dp=0x7f060049;
+    public static final int ic_share_black_24dp=0x7f06004a;
+    public static final int ic_visibility_black_24dp=0x7f06004b;
+    public static final int notification_template_icon_bg=0x7f06004c;
   }
   public static final class id {
     public static final int action0=0x7f070000;

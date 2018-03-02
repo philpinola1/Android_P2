@@ -11,24 +11,28 @@
         android:id="@+id/action_share"
         android:orderInCategory="300"
         android:title="Share"
+        android:icon="@drawable/ic_share_black_24dp"
         app:showAsAction="ifRoom"/>
 
     <item
         android:id="@+id/action_eyeball"
         android:orderInCategory="200"
         android:title="Eyeball"
+        android:icon="@drawable/ic_visibility_black_24dp"
         app:showAsAction="ifRoom"/>
 
     <item
         android:id="@+id/action_pencil"
         android:orderInCategory="100"
         android:title="Pencil"
+        android:icon="@drawable/ic_mode_edit_black_24dp"
         app:showAsAction="ifRoom"/>
 
     <item
         android:id="@+id/action_back"
         android:orderInCategory="000"
         android:title="Back Arrow"
+        android:icon="@drawable/ic_refresh_black_24dp"
         app:showAsAction="ifRoom"/>
 
 </menu>

@@ -444,7 +444,11 @@ int drawable abc_textfield_search_material 0x7f060044
 int drawable camera 0x7f060045
 int drawable gutters 0x7f060046
 int drawable ic_launcher 0x7f060047
-int drawable notification_template_icon_bg 0x7f060048
+int drawable ic_mode_edit_black_24dp 0x7f060048
+int drawable ic_refresh_black_24dp 0x7f060049
+int drawable ic_share_black_24dp 0x7f06004a
+int drawable ic_visibility_black_24dp 0x7f06004b
+int drawable notification_template_icon_bg 0x7f06004c
 int id action0 0x7f070000
 int id action_back 0x7f070001
 int id action_bar 0x7f070002

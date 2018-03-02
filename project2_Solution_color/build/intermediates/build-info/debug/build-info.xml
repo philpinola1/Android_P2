@@ -6,7 +6,7 @@
     density="xhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1519947328644"
+    timestamp="1519948939626"
     token="-6219864661203636001"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -22,6 +22,10 @@
     <task
         name="verifier"
         duration="0" />
+
+    <artifact
+        location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/outputs/apk/debug/project2_Solution_color-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
@@ -66,18 +70,29 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1519946247427"
-        verifier="METHOD_ADDED" >
+        ir-eligibility="R_CLASS_CHANGE"
+        timestamp="1519948452995"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="FIELD_TYPE_CHANGE"
+        timestamp="1519948802779"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1519948939626"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/outputs/apk/debug/project2_Solution_color-debug.apk"
             type="SPLIT_MAIN" />
     </build>
-    <build
-        build-mode="COLD"
-        timestamp="1519947328644"
-        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>

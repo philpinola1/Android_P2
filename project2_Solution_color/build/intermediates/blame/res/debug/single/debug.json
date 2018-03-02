@@ -16,6 +16,10 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-hdpi/ic_visibility_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/layout/abc_action_bar_title_item.xml"
     },
@@ -42,6 +46,10 @@
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_ic_mode_edit_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-hdpi/ic_mode_edit_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xhdpi_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -168,24 +176,24 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-mdpi/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
-        "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_focused_holo.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxxhdpi_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xxxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xhdpi_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -222,6 +230,10 @@
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xhdpi_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_refresh_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xxxhdpi/ic_refresh_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -268,8 +280,16 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-mdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_mode_edit_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xxxhdpi/ic_mode_edit_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_list_focused_holo.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_ic_refresh_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-hdpi/ic_refresh_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
@@ -416,6 +436,10 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xxxhdpi/ic_visibility_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_btn_check_to_on_mtrl_015.png"
     },
@@ -430,6 +454,10 @@
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/xml_preferences.xml.flat",
         "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xhdpi_ic_share_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xhdpi/ic_share_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_abc_popup_background_mtrl_mult.9.png.flat",
@@ -456,8 +484,16 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xhdpi_ic_mode_edit_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xhdpi/ic_mode_edit_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_ic_share_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-mdpi/ic_share_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_ic_go_search_api_mtrl_alpha.png.flat",
@@ -528,6 +564,10 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-mdpi/ic_visibility_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -560,12 +600,24 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable/abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xhdpi_ic_refresh_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xhdpi/ic_refresh_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-hdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xhdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xxhdpi/ic_visibility_black_24dp.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-hdpi_ic_share_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-hdpi/ic_share_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -612,6 +664,10 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-mdpi/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_share_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xxhdpi/ic_share_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/layout/select_dialog_item_material.xml"
     },
@@ -620,8 +676,16 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_refresh_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xxhdpi/ic_refresh_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-mdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_share_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xxxhdpi/ic_share_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -702,6 +766,10 @@
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-ldrtl-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xhdpi_ic_visibility_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xhdpi/ic_visibility_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_abc_scrubber_primary_mtrl_alpha.9.png.flat",
@@ -912,6 +980,10 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xxxhdpi/abc_btn_check_to_on_mtrl_000.png"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_ic_refresh_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-mdpi/ic_refresh_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-mdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -976,6 +1048,10 @@
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-xxxhdpi/abc_switch_track_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_ic_mode_edit_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-mdpi/ic_mode_edit_black_24dp.png"
+    },
+    {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-mdpi_abc_list_pressed_holo_dark.9.png.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
     },
@@ -1002,6 +1078,10 @@
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
         "source": "/home/host001/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.1.1.aar/13e734982fb49b32cb37bd819106d68c/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_mode_edit_black_24dp.png.flat",
+        "source": "/home/host001/Downloads/P2_skel/project2_Solution_color/src/main/res/drawable-xxhdpi/ic_mode_edit_black_24dp.png"
     },
     {
         "merged": "/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
