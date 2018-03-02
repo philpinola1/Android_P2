@@ -6,42 +6,54 @@
     density="xhdpi"
     format="10"
     plugin-version="3.0.1"
-    timestamp="1519948939626"
+    timestamp="1519954199168"
     token="-6219864661203636001"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FIELD_ADDED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="20" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="4" />
     <task
         name="verifier"
-        duration="0" />
+        duration="1" />
 
+    <artifact
+        location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        type="SPLIT" />
     <artifact
         location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/outputs/apk/debug/project2_Solution_color-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1519945989159"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1519953948163"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/outputs/apk/debug/project2_Solution_color-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
         <artifact
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -53,43 +65,19 @@
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_6.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_9.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
-        <artifact
-            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/outputs/apk/debug/project2_Solution_color-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1519948452995"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="FIELD_TYPE_CHANGE"
-        timestamp="1519948802779"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1519954199168"
+        verifier="FIELD_ADDED" >
         <artifact
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/intermediates/split-apk/debug/slices/slice_3.apk"
             type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1519948939626"
-        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/host001/Downloads/P2_skel/project2_Solution_color/build/outputs/apk/debug/project2_Solution_color-debug.apk"
             type="SPLIT_MAIN" />

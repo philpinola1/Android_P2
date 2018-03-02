@@ -10,12 +10,16 @@ import android.os.Environment;
 import android.provider.MediaStore;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.Window;
 import android.widget.ImageButton;
 import android.widget.ImageView;
+
+import com.library.bitmap_utilities.BitMap_Helpers;
 
 import java.io.File;
 
@@ -24,28 +28,42 @@ public class MainActivity extends AppCompatActivity  {
     private ImageView imgView;
     private Toolbar myToolbar;
     private ImageButton cameraButton;
+    private Bitmap imageBitmap;
+    private DisplayMetrics metrics;
+    private File path;
+    private int screenWidth, screenHeight;
+
     private int TAKE_PICTURE = 1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        //this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
         myToolbar = (Toolbar) findViewById(R.id.main_toolbar);
         setSupportActionBar(myToolbar);
+        //myToolbar.getBackground().setAlpha(5);
 
         imgView = (ImageView)findViewById(R.id.backgroudImage);
         Drawable myDrawable = getResources().getDrawable(R.drawable.gutters);
         imgView.setImageDrawable(myDrawable);
 
         cameraButton = (ImageButton)findViewById(R.id.camera_button);
-    }
 
+
+        metrics = this.getResources().getDisplayMetrics();
+        screenHeight = metrics.heightPixels;
+        screenWidth = metrics.widthPixels;
+
+    }
 
     public void captureImage(View v) {
         Intent intent = new Intent(MediaStore.ACTION_IMAGE_CAPTURE);
-        File path = Environment.getExternalStoragePublicDirectory(
+        path = Environment.getExternalStoragePublicDirectory(
                 Environment.DIRECTORY_PICTURES);
+
+
 
         intent.putExtra(MediaStore.EXTRA_OUTPUT, path);
 
@@ -57,7 +75,7 @@ public class MainActivity extends AppCompatActivity  {
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         if (requestCode == TAKE_PICTURE && resultCode == RESULT_OK) {
             Bundle extras = data.getExtras();
-            Bitmap imageBitmap = (Bitmap) extras.get("data");
+            imageBitmap = (Bitmap) extras.get("data");
             imgView.setImageBitmap(imageBitmap);
         }
     }
@@ -82,20 +100,26 @@ public class MainActivity extends AppCompatActivity  {
                 startActivity(myIntent);
                 break;
             case R.id.action_share:
-                //call the function (or intent?) associated with the eyeball
+                //call the function (or intent?)
                 Log.d("share_clicked", "Menu Item: Share selected");
                 break;
             case R.id.action_eyeball:
-                //call the function (or intent?) associated with the eyeball
+                //call the function (or intent?)
                 Log.d("eyeball", "Menu Item: Eyeball selected");
                 break;
             case R.id.action_pencil:
-                //call the function (or intent?) associated with the eyeball
-                Log.d("eyeball", "Menu Item: Pencil selected");
+                //call the function (or intent?)
+                Log.d("pencil", "Menu Item: Pencil selected");
+                BitMap_Helpers.thresholdBmp(imageBitmap, 50);
+                Bitmap cp = Camera_Helpers.loadAndScaleImage(path.getAbsolutePath(), screenHeight, screenWidth);
+                
                 break;
             case R.id.action_back:
-                //call the function (or intent?) associated with the eyeball
-                Log.d("eyeball", "Menu Item: Back selected");
+                //call the function (or intent?)
+                Log.d("back", "Menu Item: Back selected");
+                imgView.setImageResource(R.drawable.gutters);
+                imgView.setScaleType(ImageView.ScaleType.FIT_CENTER);
+                imgView.setScaleType(ImageView.ScaleType.FIT_XY);
                 break;
             default:
                 break;
